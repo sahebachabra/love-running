@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 /* Temporary background colors */
 header {
     background-color: lightcoral;
@@ -17,14 +16,12 @@ main {
 footer {
     background-color: lightgreen;
 }
-
 /* Flexbox layout for body */
 body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    color: #3a3a3a;
-    /* Generic text color */
+    color: #3a3a3a; /* Generic text color */
 }
 
 /* Ensure the main section takes up available space */
